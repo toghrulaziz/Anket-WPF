@@ -1,0 +1,16 @@
+[
+  {
+    "Birthday": "2023-03-14T00:00:00",
+    "Phone": "777777777",
+    "Email": "elon@gmail.com",
+    "Surname": "Musk",
+    "Name": "Elon "
+  },
+  {
+    "Birthday": "2023-03-23T00:00:00",
+    "Phone": "778889988",
+    "Email": "bill@gmail.com",
+    "Surname": "Gates",
+    "Name": "Bill"
+  }
+]
